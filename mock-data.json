@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "fullName": "Hari",
+        "address": "Madurai",
+        "phoneNumber": "9393939393",
+        "email": "hari204@gmail.com"
+    },
+
+    {
+        "id": 2,
+        "fullName": "Praveen",
+        "address": "Madurai",
+        "phoneNumber": "9393936789",
+        "email": "praveen987@gmail.com"
+    },
+
+    {
+        "id": 3,
+        "fullName": "Ramesh",
+        "address": "Coimbatore",
+        "phoneNumber": "9393937645",
+        "email": "ramesh987@gmail.com"
+    },
+
+    {
+        "id": 4,
+        "fullName": "Salam",
+        "address": "Chennai",
+        "phoneNumber": "9393987653",
+        "email": "salam868@gmail.com"
+    },
+
+    {
+        "id": 5,
+        "fullName": "Mohan",
+        "address": "Madurai",
+        "phoneNumber": "9393439793",
+        "email": "mohan989@gmail.com"
+    }
+
+    
+]
